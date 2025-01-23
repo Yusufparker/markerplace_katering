@@ -74,7 +74,7 @@ export default function UpdateMerchantProfile({profile}) {
                 </div>
                 <div>
                     {profile.image && (
-                        <img className="w-40" src={`/storage/${profile.image}`} alt="" />
+                        <img className="w-40ls" src={`/storage/${profile.image}`} alt="" />
                     )}
                 </div>
 
