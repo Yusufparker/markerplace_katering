@@ -5,4 +5,5 @@
 5. php artisan migrate
 6. php artisan storage:link
 7. npm install
-8. php artisan ser
+8. npm run build
+9. php artisan ser
